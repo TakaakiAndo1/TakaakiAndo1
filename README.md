@@ -87,7 +87,7 @@
 
 ## 🔭 **What I'm Working On**
 
-- 🎓 **Grow Learn** — 企業向け学習プラットフォーム（Rails 8 / GraphQL / React 19）
+- 🎓 企業向け学習プラットフォーム（Rails / GraphQL / React）
 - 🧠 **第二の脳** — Obsidian Vault + AI エージェント（Claude / Codex / Grok）の運用
 - 🛠️ **個人開発** — Chrome 拡張・カレンダー・学習用アプリなど
 
