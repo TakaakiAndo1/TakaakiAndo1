@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Takaaki+Ando+%F0%9F%91%8B;Full-Stack+Web+Engineer+%F0%9F%9A%80;Rails+%2B+React+%2F+TypeScript+%F0%9F%92%BB;AI-Driven+Developer+%F0%9F%A4%96;Claude+Code+%2F+Codex+%2F+Grok+%F0%9F%92%AB;Based+in+Chiba%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Takaaki+Ando+%EF%BC%88%E5%AE%89%E8%97%A4%E8%B2%B4%E5%BD%B0%EF%BC%89+%F0%9F%91%8B;Full-Stack+Web+Engineer+%F0%9F%9A%80;Rails+%2B+React+%2F+TypeScript+%F0%9F%92%BB;AI-Driven+Developer+%F0%9F%A4%96;Claude+Code+%2F+Codex+%2F+Grok+%F0%9F%92%AB;Based+in+Chiba%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -21,7 +21,7 @@
 </td>
 <td width="500" align="left">
 
-### 👋 **Hi, I'm Takaaki Ando!**
+### 👋 **Hi, I'm Takaaki Ando（安藤貴彰）!**
 
 🧑‍💻 **Full-Stack Engineer** — Ruby on Rails / React / TypeScript  
 🤖 **AI-Driven Developer** — Claude Code, Codex, Grok を日常の開発フローに組み込み  
@@ -96,6 +96,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-TakaakiAndo1-181717?style=for-the-badge&logo=github)](https://github.com/TakaakiAndo1)
+[![X](https://img.shields.io/badge/X-taka1310-000000?style=for-the-badge&logo=x)](https://x.com/taka1310)
 
 </div>
 
