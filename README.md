@@ -35,6 +35,11 @@
 </table>
 </div>
 
+## 🧰 **代表作**
+
+- **動画ワンクリック要約（for Gemini / Perplexity / Grok）** — YouTube を見ながら、ボタン1つで動画の要約を AI に頼める Chrome 拡張。Chrome ウェブストアで公開中  
+  https://chromewebstore.google.com/detail/nelccdicndjaegpcppecbhlkpchcmkke
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
